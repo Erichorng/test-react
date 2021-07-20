@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "a test project for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erichorng/test-react.git"
+  },
+  "keywords": [
+    "haha"
+  ],
+  "author": "Eric Horng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erichorng/test-react/issues"
+  },
+  "homepage": "https://github.com/Erichorng/test-react#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
